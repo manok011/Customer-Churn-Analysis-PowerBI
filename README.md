@@ -45,7 +45,10 @@ and billing information.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard_overview.png)
+
+![Dashboard Overview](Screenshot 2026-06-01 161952.png)
+
+![Churn Analysis](Screenshot 2026-06-02 151646.png)
 
 ---
 
